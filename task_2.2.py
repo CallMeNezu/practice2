@@ -9,6 +9,6 @@ while True:
 процентное использование жесткого диска: {dick_usage.percent:.1f}%
 """
     print(output_1)
-    print("\n")
     time.sleep(3)
+
 
